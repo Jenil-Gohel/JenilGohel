@@ -114,14 +114,14 @@ const AboutUs = () => {
                         FEB 2023 - PRESENT
                       </div>
                       <div className="jg-experience-designation">
-                        Associate Web Developer
+                        Mern Stack Developer
                       </div>
                       <div className="jg-experience-company">
                         Zealousweb Technologies Pvt. Ltd, Ahmedabad
                       </div>
                       <div className="jg-experience-info-list">
                         <ul>
-                          <li>
+                          {/* <li>
                             Front-End : React, Redux, HTML5, CSS3, JavaScript
                             (ES6+)
                           </li>
@@ -129,7 +129,7 @@ const AboutUs = () => {
                           <li>Database : MySQL, MongoDB</li>
                           <li>RESTful API Development</li>
                           <li>Responsive Web Design</li>
-                          <li>Version Control : Git, GitHub/GitLab</li>
+                          <li>Version Control : Git, GitHub/GitLab</li> */}
                           <li>
                             Collaborated with cross-functional teams to gather
                             and analyse project requirements, ensuring alignment
@@ -150,7 +150,7 @@ const AboutUs = () => {
                             and resolve software defects, ensuring optimal
                             performance and user experience.
                           </li>
-                          <li>
+                          {/* <li>
                             Utilised version control systems, such as Git, for
                             efficient collaboration and code management.
                           </li>
@@ -161,11 +161,11 @@ const AboutUs = () => {
                           <li>
                             Integrated third-party APIs to enhance application
                             features and functionality.
-                          </li>
+                          </li> */}
                         </ul>
                       </div>
                     </div>
-                    <div className="jg-experience-wrap">
+                    {/* <div className="jg-experience-wrap">
                       <div className="jg-experience-year">
                         OCT 2022 - FEB 2023
                       </div>
@@ -268,13 +268,13 @@ const AboutUs = () => {
                           </li>
                         </ul>
                       </div>
-                    </div>
+                    </div> */}
                     <div className="jg-experience-wrap  jg-experience-wrap-last">
                       <div className="jg-experience-year">
-                        DEC 2021 - FEB 2022
+                        DEC 2021 - FEB 2023
                       </div>
                       <div className="jg-experience-designation">
-                        Full Stack Developer Internship
+                        Frontend Developer
                       </div>
                       <div className="jg-experience-company">
                         Evol Technobits Digital Pvt. Ltd.
@@ -282,17 +282,24 @@ const AboutUs = () => {
                       <div className="jg-experience-info-list">
                         <ul>
                           <li>
-                            Designed dynamic and interactive pages Using HTML,
-                            CSS, jQuery, and JavaScript.
+                            Assisted in the development of web applications,
+                            focusing on both front-end and back-end components.
                           </li>
-                          <li>Coordinated with global delivery teams.</li>
+                          <li>
+                            Collaborated with senior developers to understand
+                            and implement technical requirements.
+                          </li>
                           <li>
                             Utilised HTML, CSS, and JavaScript to create
                             Responsive Pages and Forms for Company.
                           </li>
                           <li>
-                            Helped Senior in Debugging their code to improve
-                            Website Performance and user experience.
+                            Conducted unit testing and assisted in the
+                            identification and resolution of software defects.
+                          </li>
+                          <li>
+                            Worked closely with the QA team to ensure the
+                            quality and reliability of the software.
                           </li>
                         </ul>
                       </div>
